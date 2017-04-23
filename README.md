@@ -1,4 +1,4 @@
-Projekct: Get and Clean Data. Following steps were done:
+Project: Get and Clean Data. Following steps were done:
 
 Extract only the measurements on the mean and standard deviation for each measurement.
 Label the data set with descriptive variable names.
